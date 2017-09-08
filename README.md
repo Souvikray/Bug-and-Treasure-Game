@@ -9,3 +9,5 @@ The game consists of 4 levels with increasing level of difficulty.Once sucessful
 successful completion message and the game will exit.
 
 ![Alt text](https://github.com/Souvikray/Bug-and-Treasure-Game/blob/master/Screenshot%201.png?raw=true "Screen Shot 1")
+
+![Alt text](https://github.com/Souvikray/Bug-and-Treasure-Game/blob/master/Screenshot%202.png?raw=true "Screen Shot 2")
