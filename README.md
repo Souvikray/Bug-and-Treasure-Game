@@ -8,4 +8,4 @@ some obstacles along the way namely the snakes that will patrol the treasure.
 The game consists of 4 levels with increasing level of difficulty.Once sucessfully completed,you will recieve a 
 successful completion message and the game will exit.
 
-![Alt text](http://Bug-and-Treasure-Game/Screenshot 1.png?raw=true "Screen Shot 1")
+![Alt text](https://github.com/Souvikray/Bug-and-Treasure-Game/blob/master/Screenshot%201.png?raw=true "Screen Shot 1")
